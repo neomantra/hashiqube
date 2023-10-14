@@ -311,7 +311,7 @@ For suggestions, feedback and queries please branch or and submit a Pull Request
 
 
 ### About Hashiqube
-Hashiqube runs all the Hashicorp products and a host of other popular Open Source software taht is heavily used in the industry. 
+Hashiqube runs all the Hashicorp products and a host of other popular Open Source software that is heavily used in the industry. 
 
 Once you have done `vagrant up --provision` you will have access to Vault, Nomad, Consul, Boundary, Waypoint and this documnetation page on your local computer.
 
